@@ -1,4 +1,5 @@
 # GenBrowser
+![Image url](https://github.com/aadityanaik007/GenBrowser/blob/main/ss.jpg)
 
 **GenBrowser** is a lightweight, tabbed web browser built using Python and PySide6. It features a clean interface, ad blocking, a download manager, dark mode, and more.
 
